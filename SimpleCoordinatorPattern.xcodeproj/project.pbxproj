@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1B8AE9DB22104D5F00647831 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B8AE9DA22104D5F00647831 /* AppDelegate.swift */; };
-		1B8AE9DD22104D5F00647831 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B8AE9DC22104D5F00647831 /* ViewController.swift */; };
 		1B8AE9E222104D6900647831 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B8AE9E122104D6900647831 /* Assets.xcassets */; };
 		1B8AE9E522104D6900647831 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B8AE9E322104D6900647831 /* LaunchScreen.storyboard */; };
 		1B8AE9F022104D6A00647831 /* SimpleCoordinatorPatternTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B8AE9EF22104D6A00647831 /* SimpleCoordinatorPatternTests.swift */; };
@@ -33,7 +32,6 @@
 /* Begin PBXFileReference section */
 		1B8AE9D722104D5F00647831 /* SimpleCoordinatorPattern.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleCoordinatorPattern.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B8AE9DA22104D5F00647831 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1B8AE9DC22104D5F00647831 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1B8AE9E122104D6900647831 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B8AE9E422104D6900647831 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B8AE9E622104D6900647831 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -90,7 +88,6 @@
 				1B8AEA0322104E9C00647831 /* ViewController */,
 				1B8AE9FA22104DBF00647831 /* Coordinator */,
 				1B8AE9DA22104D5F00647831 /* AppDelegate.swift */,
-				1B8AE9DC22104D5F00647831 /* ViewController.swift */,
 				1B8AE9E122104D6900647831 /* Assets.xcassets */,
 				1B8AE9E322104D6900647831 /* LaunchScreen.storyboard */,
 				1B8AE9E622104D6900647831 /* Info.plist */,
@@ -230,7 +227,6 @@
 				1B8AEA0022104E3100647831 /* TabCoordinator.swift in Sources */,
 				1B8AEA0222104E7500647831 /* HomeNavigationCoordinator.swift in Sources */,
 				1B8AE9FC22104DD200647831 /* AppCoordinator.swift in Sources */,
-				1B8AE9DD22104D5F00647831 /* ViewController.swift in Sources */,
 				1B8AE9FE22104DF800647831 /* CoordinatorProtocols.swift in Sources */,
 				1B8AEA0522104EAC00647831 /* ViewController.swift in Sources */,
 				1B8AE9DB22104D5F00647831 /* AppDelegate.swift in Sources */,
